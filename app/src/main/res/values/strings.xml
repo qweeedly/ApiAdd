@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ApiAdd</string>
+    <string name="Name">Login</string>
+    <string name="Password">Password</string>
+    <string name="First">Фамилия</string>
+    <string name="NameL">Имя</string>
+    <string name="ResetPassword">Повторите пароль</string>
+    <string name="trans">trans</string>
+</resources>
